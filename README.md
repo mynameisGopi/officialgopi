@@ -1,2 +1,2 @@
 # officialgopi
-This is the official portfolio website for the ITM780 Final Project
+This is a portfolio website that I will be working on the side (Completion TBD!!!)
